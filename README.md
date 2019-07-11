@@ -1,0 +1,2 @@
+# component-lib
+some stuff
